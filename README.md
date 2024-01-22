@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
+    
 
 :black_nib: [티스토리](https://asterism1030.tistory.com/)
 
