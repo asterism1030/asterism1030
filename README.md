@@ -1,4 +1,5 @@
-### Hi there 👋
+### 티스토리 블로그 : https://asterism1030.tistory.com/
+### 일상 유튜브 : https://www.youtube.com/@Danpung1116
 
 <!--
 **asterism1030/asterism1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
